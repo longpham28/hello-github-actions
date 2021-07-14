@@ -1,0 +1,11 @@
+name: "Hello Long Actions"
+description: "Greet Long"
+author: "longpham28@github.com"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "mic"
+  color: "purple"
